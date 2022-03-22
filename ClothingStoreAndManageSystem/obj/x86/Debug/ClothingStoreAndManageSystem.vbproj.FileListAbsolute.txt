@@ -1,0 +1,13 @@
+H:\c#_projects\ClothingStoreAndManageSystem\ClothingStoreAndManageSystem\bin\Debug\ClothingStoreAndManageSystem.exe
+H:\c#_projects\ClothingStoreAndManageSystem\ClothingStoreAndManageSystem\bin\Debug\ClothingStoreAndManageSystem.pdb
+H:\c#_projects\ClothingStoreAndManageSystem\ClothingStoreAndManageSystem\bin\Debug\ClothingStoreAndManageSystem.xml
+H:\c#_projects\ClothingStoreAndManageSystem\ClothingStoreAndManageSystem\bin\Debug\Bunifu_UI_v1.5.3.dll
+H:\c#_projects\ClothingStoreAndManageSystem\ClothingStoreAndManageSystem\obj\x86\Debug\ClothingStoreAndManageSystem.Dashboard.resources
+H:\c#_projects\ClothingStoreAndManageSystem\ClothingStoreAndManageSystem\obj\x86\Debug\ClothingStoreAndManageSystem.Login.resources
+H:\c#_projects\ClothingStoreAndManageSystem\ClothingStoreAndManageSystem\obj\x86\Debug\ClothingStoreAndManageSystem.Resources.resources
+H:\c#_projects\ClothingStoreAndManageSystem\ClothingStoreAndManageSystem\obj\x86\Debug\ClothingStoreAndManageSystem.vbproj.GenerateResource.Cache
+H:\c#_projects\ClothingStoreAndManageSystem\ClothingStoreAndManageSystem\obj\x86\Debug\ClothingStoreAndManageSystem.exe
+H:\c#_projects\ClothingStoreAndManageSystem\ClothingStoreAndManageSystem\obj\x86\Debug\ClothingStoreAndManageSystem.xml
+H:\c#_projects\ClothingStoreAndManageSystem\ClothingStoreAndManageSystem\obj\x86\Debug\ClothingStoreAndManageSystem.pdb
+H:\c#_projects\ClothingStoreAndManageSystem\ClothingStoreAndManageSystem\obj\x86\Debug\ClothingStoreAndManageSystem.Dialog.resources
+H:\c#_projects\ClothingStoreAndManageSystem\ClothingStoreAndManageSystem\obj\x86\Debug\ClothingStoreAndManageSystem.Receipt.resources
